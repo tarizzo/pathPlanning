@@ -16,7 +16,7 @@ find a path, but the path length and nodes visited are about the
 same for both maps used. SFC is shown to be as robust as A*
 where RRT has the worst robustness in comparison
 
-Link to IEEE format report: https://drive.google.com/file/d/10SQz_w2VwT-ucf5rWVxJQlOjM06yg6Gq/view?usp=sharing
+Link to IEEE format report: ([PDF](https://github.com/tarizzo/pathPlanning/blob/main/report.pdf))
 
 MATLAB Toolboxes Utilized:
 
